@@ -112,8 +112,8 @@ yosef = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yosef-zewdu&show_icons=true&count_private=true&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&bg_color=0d1117&hide_border=true&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosef-zewdu&layout=compact&langs_count=8&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&bg_color=0d1117&hide_border=true" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yosef-zewdu&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yosef-zewdu&theme=github_dark" />
 
 </div>
 
