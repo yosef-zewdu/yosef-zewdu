@@ -1,30 +1,131 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yosef Zewdu Asmare
-===================================================================================================================================
+<div align="center">
 
-* 🌍  I'm based in Addis Ababa, Ethiopia
-* 🖥️  See my portfolio at [My portfolio](http://sites.google.com/view/yosefzewdu)
-* ✉️  You can contact me at [yosefzewdu07@gmail.com](mailto:yosefzewdu07@gmail.com)
-* 🧠  I'm learning End to End Machine Learning projects
-* 🤝  I'm open to collaborating on Machine Learning and Data Science projects
-
-### Skills
+# Yosef Zewdu
+### AI Engineer | ML Researcher | Agentic Systems
 
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosef-zewdu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yosef-zewdu.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yosefzewdu07@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yosef-zewdu)
+
+</div>
+
+---
+
+## About Me
+
+> *"Building AI systems that think, act, and deliver real-world impact."*
+
+I'm an **AI Engineer & ML Researcher** based in **Addis Ababa, Ethiopia**, specializing in agentic AI systems, large language models, and data-driven solutions. My work spans from building autonomous AI agents to applying ML for high-impact problems across finance and healthcare.
+
+- Actively building **multi-agent pipelines**, LLM evaluation frameworks, and data intelligence systems
+- Applying **machine learning and data science** to solve real-world problems
+- Reading research papers on **LLM inference and agentic systems**
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Core AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Agentic & LLM Tools**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Protocol-0D1117?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-FF6B35?style=for-the-badge&logo=langchain&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logoColor=white)
+
+**MLOps & Data Engineering**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Profile view counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=yosef-zewdu&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://www.github.com/yosef-zewdu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/yosef-zewdu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-### Badges
+## Featured Projects
 
-<b>My GitHub Stats</b>
+<div align="center">
 
-<a href="http://www.github.com/yosef-zewdu"><img src="https://github-readme-stats.vercel.app/api?username=yosef-zewdu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yosef-zewdu's GitHub stats" /></a>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**Sales Agent Evaluation Bench**](https://github.com/yosef-zewdu/Sales-Agent-Evaluation-Bench) | LLM agent evaluation framework for sales workflows | Python, LLMs, Evals |
+| [**data-agent-challenge**](https://github.com/yosef-zewdu/data-agent-challenge) | Benchmarking autonomous data agents | Python, Agents |
+| [**Document Intelligence Refinery**](https://github.com/yosef-zewdu/Document-Intelligence-Refinery) | Intelligent document processing pipeline | RAG, LLMs, FastAPI |
+| [**Fraud Detection**](https://github.com/yosef-zewdu/Fraud-Detection) | ML-based financial fraud detection system | Python, Sklearn, XGBoost |
+| [**Ethio Medical Data Warehouse**](https://github.com/yosef-zewdu/Ethio-Medical-Data-Warehouse) | Healthcare data infrastructure for Ethiopia | PostgreSQL, Python, dbt |
+| [**Conditional DDPM**](https://github.com/yosef-zewdu/Conditional-DDPM) | Conditional diffusion probabilistic models | PyTorch, GenAI |
+| [**Medical Diagnosis Expert System**](https://github.com/yosef-zewdu/Medical-Diagnosis-Expert-System) | Rule-based expert system for medical diagnosis | Python, Knowledge Engineering |
 
-<a href="http://www.github.com/yosef-zewdu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yosef-zewdu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</div>
 
-<a href="https://github.com/yosef-zewdu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosef-zewdu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## Current Focus
+
+```python
+yosef = {
+    "role": "AI Engineer & ML Researcher",
+    "location": "Addis Ababa, Ethiopia",
+    "currently_building": [
+        "Agentic AI systems with multi-step reasoning",
+        "LLM evaluation & benchmarking frameworks",
+        "Data intelligence pipelines",
+    ],
+    "exploring": [
+        "LLM inference optimization",
+        "Agentic systems research papers",
+    ],
+    "open_to": "Collaboration on AI agents, ML research & data science"
+}
+```
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yosef-zewdu&show_icons=true&count_private=true&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&bg_color=0d1117&hide_border=true&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosef-zewdu&layout=compact&langs_count=8&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&bg_color=0d1117&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yosef-zewdu&stroke=ffffff&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakNum=ffffff&currStreakLabel=00D9FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yosef-zewdu&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
